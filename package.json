@@ -20,6 +20,10 @@
   },
   "homepage": "https://github.com/prefectLee/minReact#readme",
   "devDependencies": {
-    "umi": "^2.13.3"
+    "umi": "^2.13.3",
+    "umi-plugin-react": "^1.15.2"
+  },
+  "dependencies": {
+    "antd": "^3.26.7"
   }
 }
