@@ -1,0 +1,25 @@
+{
+  "name": "minReact",
+  "version": "1.0.0",
+  "description": "测试react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "umi dev",
+    "build": "umi build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prefectLee/minReact.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prefectLee/minReact/issues"
+  },
+  "homepage": "https://github.com/prefectLee/minReact#readme",
+  "devDependencies": {
+    "umi": "^2.13.3"
+  }
+}
